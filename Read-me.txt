@@ -1,0 +1,19 @@
+To Run the Source Code,
+
+1. Copy the File 'DE2.ipynb' present in the Folder 'Source Code' and paste it inside your working Directory.
+
+2. Copy four folders from the Directory 'Data' and Paste them as they are inside your working Directory. Please Do not change the names of the folders.
+
+We're also assuming that the OS is Windows. If you're working under some other OS, the path may be wrong and the code may not run successfuly.
+
+3. Install the Package 'us' with the following command 
+
+'pip3 install us'
+
+4. We're assuming that Instructors have Python 3 installed.
+
+5. The Source Code will run and produce the Results and Graphs necessary for the tasks involved.
+
+6. In Any Case, Instructors can see the folder 'Figures' to understand the figures involved in the tasks. Tables and Figures are also present and discussed in the Report in Detail.
+
+Thank you for your time.
